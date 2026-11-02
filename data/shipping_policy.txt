@@ -1,0 +1,36 @@
+# TechNova Solutions - Shipping and Delivery Policy
+
+## Shipping Locations
+We currently provide domestic shipping within India.
+
+International shipping availability is not officially confirmed.
+
+## Delivery Time
+- Standard Shipping: 5 to 7 business days.
+- Express Shipping: 2 to 3 business days.
+
+Delivery times are estimates and may vary depending on location and external circumstances.
+
+## Shipping Charges
+- Standard Shipping: Free for orders above ₹999.
+- Standard Shipping: ₹50 for orders below ₹999.
+- Express Shipping: ₹150 per order.
+
+## Order Tracking
+Customers receive a tracking link through email after their order has been shipped.
+
+Customers can use this tracking link to check their delivery status.
+
+## Delayed Orders
+If an order has not arrived after the estimated delivery period:
+1. Check the tracking link.
+2. Verify the delivery address.
+3. Contact customer support with the order ID.
+
+## Lost Shipments
+Customers should contact support if the tracking status has not changed for more than 5 business days.
+
+Our support team will investigate the shipment.
+
+## Shipping Support
+Email: support@technova.example

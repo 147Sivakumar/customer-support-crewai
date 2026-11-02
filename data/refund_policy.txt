@@ -1,0 +1,37 @@
+# TechNova Solutions - Refund and Return Policy
+
+## Return Eligibility
+- Customers can request a return within 7 calendar days of receiving the product.
+- Products must be unused and in their original packaging.
+- The original invoice or proof of purchase must be provided.
+- Products damaged by customer misuse are not eligible for return.
+
+## Refund Eligibility
+Refunds are approved after the returned product passes inspection.
+
+## Refund Processing Time
+- Approved refunds are processed within 5 to 7 business days.
+- The refund is credited to the original payment method.
+- Bank processing times may vary.
+
+## Damaged Products
+Customers who receive damaged products should contact support within 48 hours of delivery.
+
+They should provide:
+- Order ID
+- Product photographs
+- Description of the damage
+
+## Non-Returnable Products
+- Digital products.
+- Downloadable software.
+- Products marked as non-returnable.
+
+## Cancellation
+Orders can be cancelled before they are shipped.
+
+Once an order has been shipped, customers must follow the return policy.
+
+## Customer Support
+For refund assistance, contact:
+support@technova.example

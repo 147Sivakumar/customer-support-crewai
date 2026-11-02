@@ -1,0 +1,37 @@
+# TechNova Solutions - Company Information
+
+## About Our Company
+TechNova Solutions is an online technology retailer selling electronic products and accessories.
+
+Our mission is to provide quality technology products with reliable customer service.
+
+## Contact Information
+Customer Support Email: support@technova.example
+Phone: +1-800-555-0100
+Working Hours: Monday to Saturday, 9:00 AM to 6:00 PM
+Time Zone: Indian Standard Time (IST)
+
+## Customer Support
+Customers can contact our support team through:
+- Email support.
+- Customer support phone.
+- Website contact form.
+
+Our support team aims to respond to customer queries within 24 business hours.
+
+## Payment Methods
+We accept:
+- Credit Cards
+- Debit Cards
+- UPI
+- Net Banking
+
+All online payments are processed through secure payment gateways.
+
+## Order Information
+Customers receive an order confirmation email after successfully placing an order.
+
+Each order is assigned a unique order ID that can be used to track the order.
+
+## General Policy
+Customers should provide their order ID when contacting customer support to help us resolve issues quickly.

@@ -1,0 +1,47 @@
+# TechNova Solutions - Product Frequently Asked Questions
+
+## Products Available
+TechNova Solutions sells:
+- Laptops
+- Keyboards
+- Computer Mice
+- Headphones
+- Monitors
+- Mobile Accessories
+
+## Laptop FAQ
+
+Q: Do your laptops come with a warranty?
+A: Yes. Laptops come with a 1-year manufacturer warranty.
+
+Q: Can I return a laptop?
+A: Yes. Eligible laptops can be returned within 7 calendar days according to our return policy.
+
+## Headphones FAQ
+
+Q: Do headphones have a warranty?
+A: Yes. Headphones include a 6-month manufacturer warranty.
+
+Q: Can I return opened headphones?
+A: Returns are subject to product eligibility and the condition requirements in our return policy.
+
+## Keyboard FAQ
+
+Q: What is the warranty period for keyboards?
+A: Keyboards include a 6-month manufacturer warranty.
+
+## Mouse FAQ
+
+Q: What is the warranty period for computer mice?
+A: Computer mice include a 6-month manufacturer warranty.
+
+## General Product FAQ
+
+Q: How can I check product availability?
+A: Customers can check availability on the product listing page.
+
+Q: How can I get technical support?
+A: Contact support@technova.example with your product details and issue description.
+
+Q: Do products include installation support?
+A: Installation support availability depends on the product. Contact customer support for confirmation.
